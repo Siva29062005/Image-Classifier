@@ -1,0 +1,5 @@
+flask
+numpy
+cv2
+tensorflow
+matplotlib
